@@ -1,0 +1,25 @@
+site_name: Kortrijk Roleplay
+site_url: https://KR-Fivem.nl
+theme:
+  name: material
+  palette: 
+ # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: custom
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+  
+
+
+
+   
